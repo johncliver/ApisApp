@@ -1,0 +1,32 @@
+{
+  "category":[
+    {
+      "text":"Horror",
+      "img":"https://static.thenounproject.com/png/4185227-200.png",
+      "description":"🌑📚 ¡Embárcate en un escalofriante viaje a lo desconocido con nuestra colección de libros de horror! 📚🌑"
+    },
+    {
+      "text":"Psychology",
+      "img":"https://cdn-icons-png.flaticon.com/512/788/788620.png",
+      "description":"🧠📚 ¡Explora las profundidades de la mente humana con nuestra selección de libros de psicología! 📚🧠"
+    },
+    {
+      "text":"Manga",
+      "img":"https://cdn-icons-png.flaticon.com/512/4797/4797223.png",
+      "description":"📚🎉 ¡Explora un universo de emociones y aventuras a través de nuestros mangas seleccionados! 🎉📚"
+    },
+    {
+      "text":"Novel",
+      "img":"https://cdn-icons-png.flaticon.com/512/806/806169.png",
+      "description":"📚🌟 ¡Sumérgete en mundos de fantasía, romance y aventura con nuestra irresistible colección de novelas! 🌟📚"
+    },
+    {
+      "text":"Scientists",
+      "img":"https://cdn-icons-png.flaticon.com/128/6747/6747064.png",
+      "description":"🔬📚 ¡Explora las mentes brillantes que han moldeado el mundo con nuestra colección de libros sobre científicos! 📚🔬"
+    },
+    {
+      "text":"Biographies",
+      "img":"https://cdn-icons-png.flaticon.com/128/6776/6776510.png",
+      "description":"📚🌟 ¡Explora las vidas fascinantes de personajes reales a través de nuestra cautivadora colección de biografías! 🌟📚"
+]}
